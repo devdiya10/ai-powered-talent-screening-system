@@ -1,0 +1,13 @@
+Alex Morgan
+Email: alex@example.test
+
+SUMMARY
+Entry-level Python developer interested in automation and data applications.
+
+SKILLS
+Python, SQL, Pandas, NumPy, Git, REST API, Flask, Streamlit, problem solving,
+communication, data analysis.
+
+PROJECTS
+Built a Streamlit dashboard for CSV analysis and a Flask REST API for task tracking.
+Used Git for version control and wrote Python scripts to automate repetitive tasks.

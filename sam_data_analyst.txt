@@ -1,0 +1,13 @@
+Sam Taylor
+Email: sam@example.test
+
+SUMMARY
+Aspiring data analyst with experience in reporting and visualization.
+
+SKILLS
+Python, SQL, Excel, Power BI, Pandas, Matplotlib, statistics, data visualization,
+communication, problem solving.
+
+PROJECTS
+Analyzed synthetic sales data using Pandas and SQL. Created a Power BI dashboard
+and presented findings to a student project group.

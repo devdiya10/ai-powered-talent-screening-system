@@ -1,0 +1,13 @@
+Jordan Lee
+Email: jordan@example.test
+
+SUMMARY
+Software development student focused on backend programming.
+
+SKILLS
+Java, C++, data structures, algorithms, HTML, CSS, JavaScript, Git, MySQL,
+communication and problem solving.
+
+PROJECTS
+Created a Java inventory management application and a basic web interface.
+Practiced object-oriented programming and database queries.

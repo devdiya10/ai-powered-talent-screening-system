@@ -1,0 +1,6 @@
+Python Developer Intern
+
+We are looking for a Python Developer Intern with Python programming, SQL, Pandas,
+NumPy, Git, REST API, problem-solving and communication skills. Familiarity with
+Flask, Django, Streamlit, data analysis and machine learning is an advantage.
+Candidates should be able to write clean code, debug applications and work with data.
